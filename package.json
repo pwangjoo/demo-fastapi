@@ -1,0 +1,9 @@
+{
+  "config": {
+    "port": 3000
+  },
+  "scripts": {
+    "start": "uvicorn main:app --port $npm_package_config_port --reload",
+    "prod": "uvicorn main:app --port $npm_package_config_port"
+  }
+}
