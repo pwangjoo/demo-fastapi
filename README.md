@@ -1,5 +1,5 @@
 # README.md
-Django starting guide for MacOS (M1).
+FastAPI starting guide for MacOS (M1).
 
 ## Preparation
 ### 1. Using `pyenv`
